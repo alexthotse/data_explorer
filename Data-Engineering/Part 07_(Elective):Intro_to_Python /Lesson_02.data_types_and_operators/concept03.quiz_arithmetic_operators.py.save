@@ -1,0 +1,8 @@
+import math, statistics
+#Quiz: Average Electricity Bill
+a, b, c = 23, 32, 64
+d = a + b + c
+e = statistics.mean([23, 32, 64])
+f = statistics.f
+mean([23, 32, 64])
+print(e)
